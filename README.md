@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Srivastava
 
-<!--
-**abhishekfsd/abhishekfsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+### 🎯 Goal
+To become a Professional Full Stack Developer.
+
+### 📫 Connect with me
+GitHub: https://github.com/abhishekfsd
+
